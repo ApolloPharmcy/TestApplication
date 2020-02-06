@@ -11,6 +11,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        System.out.println("checking Repository testing....");
+        System.out.println("checking Repository testing....1_2");
     }
 }
